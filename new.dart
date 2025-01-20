@@ -1,6 +1,8 @@
 void main() {
-  print("Hello World");
-  print( "hi everyone");
-  int a = 20, b = 30;
-  print(a + b);
+  int
+  a = 30,
+  b = 50,
+  c = 40; // I was just make commits to full fill my contribution Graph after one week i will make it Projects IA
+  int d = a + b + c;
+  print(d);
 }
